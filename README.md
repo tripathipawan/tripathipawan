@@ -12,10 +12,11 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/Open%20to%20Work...
+<img src="https://img.shields.io/badge/Freelance...
+<img src="https://komarev.com/ghpvc/...
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    🚀 Frontend Developer &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ React & Next.js &nbsp;&nbsp;|&nbsp;&nbsp; 🎨 UI Craftsman &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to Work &nbsp;&nbsp;|&nbsp;&nbsp; 🤝 Available for Freelance &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Building Modern Web Apps &nbsp;&nbsp;|&nbsp;&nbsp; 🔥 TypeScript & Tailwind &nbsp;&nbsp;|&nbsp;&nbsp;
-  </marquee>
+  <marquee behavior="scroll"...
 </p>
 
 
