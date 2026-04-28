@@ -122,7 +122,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=S,A,B,C" width="60%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=R,C,E,S,F" width="60%"/>
 
 <br/>
 <picture>
