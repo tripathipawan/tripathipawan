@@ -21,7 +21,7 @@
 
 | 🎓 Education | 💼 Role | 📍 Experience | 🤝 Open To | ⚡ Availability | 🤝 Language |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| BCA Graduate(CGPA = 8.03) | Frontend Developer | Fresher / 0-1 Year | Job · Internship · WFH/WFO | Immediate Joiner | Hindi, English |
+| BCA Graduate | Frontend Developer | Fresher / 0-1 Year | Job · Internship · WFH/WFO | Immediate Joiner | Hindi, English |
 
 
 </div>
