@@ -20,8 +20,8 @@
 <div align="center">
 
 | 🎓 Education | 💼 Role | 📍 Location |
-||:---:|:---:|:---:|
-| BCA Graduate | Frontend Developer | Uttar Pradesh, India 🇮🇳 |
+|:---:|:---:|:---:|
+| BCA Graduate | Frontend Developer | UttaraKhand, India 🇮🇳 |
 
 | 🔨 Currently Building | 📚 Learning | 🤝 Open To |
 |:---:|:---:|:---:|
