@@ -12,7 +12,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=🚀+Available+for+Freelance+%26+Collaborations;💼+Open+to+Frontend+Developer+Roles;⚡+Building+Modern+Web+Apps+with+React+%26+Next.js;🤝+Let's+Build+Something+Amazing+Together!" alt="status"/>
+<a href="https://www.linkedin.com/in/pawantripathi/">
+  <img src="https://img.shields.io/badge/💼%20Open%20to%20Work-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
