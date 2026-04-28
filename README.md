@@ -19,13 +19,10 @@
 
 <div align="center" display="flex">
 
-| 🎓 Education | 💼 Role | 📍 Location |
-|:---:|:---:|:---:|
-| BCA Graduate | Frontend Developer | Uttarakhand, India 🇮🇳 |
+| 🎓 Education | 💼 Role | 📍 Location | 🤝 Open To |
+|:---:|:---:|:---:|:---:|
+| BCA Graduate | Frontend Developer | Uttarakhand, India 🇮🇳 | Job · Internship · WFH/WFO |
 
-| 🔨 Currently Building | 📚 Learning | 🤝 Open To |
-|:---:|:---:|:---:|
-| [Projects](https://github.com/tripathipawan/) | Next.js | Job · Internship · WFH/WFO |
 
 </div>
 
