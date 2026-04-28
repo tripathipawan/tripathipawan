@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/Freelance%20Available-1f6feb?style=for-the-badge&logo=handshake&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=tripathipawan&color=e3b341&style=for-the-badge&label=PROFILE+VIEWS"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=🚀+Available+for+Freelance+%26+Collaborations;💼+Open+to+Frontend+Developer+Roles;⚡+Building+Modern+Web+Apps+with+React+%26+Next.js;🤝+Let's+Build+Something+Amazing+Together!" alt="status"/>
+
 </div>
 
 ---
