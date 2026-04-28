@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="space-between">
+<div align="center" display="flex>
 
 | 🎓 Education | 💼 Role | 📍 Location |
 |:---:|:---:|:---:|
