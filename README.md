@@ -19,9 +19,9 @@
 
 <div align="center" display="flex">
 
-| 🎓 Education | 💼 Role | 📍 Experience | 🤝 Open To | 🤝 Language |⚡ Availability |
+| 🎓 Education | 💼 Role | 📍 Experience | 🤝 Open To | ⚡ Availability | 🤝 Language |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| BCA Graduate | Frontend Developer | Fresher / 0-1 Year | Job · Internship · WFH/WFO | Hindi, English | Immediate Joiner |
+| BCA Graduate | Frontend Developer | Fresher / 0-1 Year | Job · Internship · WFH/WFO | Immediate Joiner | Hindi, English |
 
 
 </div>
