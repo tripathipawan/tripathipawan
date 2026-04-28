@@ -4,12 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=⚡+Building+Fast+%26+Modern+Web+Apps;🎨+React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;🚀+Turning+Ideas+into+Beautiful+UIs;🤝+Open+to+Freelance+%26+Collaborations)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tripathipawan&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/tripathipawan?label=FOLLOWERS&style=for-the-badge&color=238636&labelColor=1b1f23)](https://github.com/tripathipawan)
-[![Stars](https://img.shields.io/github/stars/tripathipawan?label=STARS&style=for-the-badge&color=e3b341&labelColor=1b1f23)](https://github.com/tripathipawan)
-
 </div>
 
 ---
@@ -44,7 +38,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks & Libraries**
@@ -56,11 +49,7 @@
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
 **Tools & Platforms**
 
