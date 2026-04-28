@@ -118,6 +118,10 @@
 
 <br/>
 
+[![An image of @tripathipawan's Holopin badges](https://holopin.me/tripathipawan)](https://holopin.io/@tripathipawan)
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake.svg"/>
