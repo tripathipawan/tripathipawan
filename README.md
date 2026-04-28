@@ -10,6 +10,12 @@
 [![Followers](https://img.shields.io/github/followers/tripathipawan?label=FOLLOWERS&style=for-the-badge&color=238636&labelColor=1b1f23)](https://github.com/tripathipawan)
 [![Stars](https://img.shields.io/github/stars/tripathipawan?label=STARS&style=for-the-badge&color=e3b341&labelColor=1b1f23)](https://github.com/tripathipawan)
 
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-238636?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Freelance%20Available-1f6feb?style=for-the-badge&logo=handshake&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=tripathipawan&color=e3b341&style=for-the-badge&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
