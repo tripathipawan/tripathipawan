@@ -127,7 +127,7 @@
 <img src="https://streak-stats.demolab.com?user=tripathipawan&theme=github-dark-blue&hide_border=true&background=161b22&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="47%" height="210px"/>
 </div
 
-  <br/>
+  <br/> <br/>
   
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipawan&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=161b22&langs_count=8" width="35%"/>
