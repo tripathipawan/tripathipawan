@@ -118,7 +118,7 @@
 
 <br/>
 
-[![An image of @tripathipawan's Holopin badges](https://holopin.me/tripathipawan)](https://holopin.io/@tripathipawan)
+<img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="96%"/>
 
 <br/>
 
