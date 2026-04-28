@@ -1,16 +1,210 @@
-## Hi there 👋
+<!-- TOP BANNER -->
+<p align="center">
+  <img src="https://github.com/pawan8705/pawan8705/blob/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
+</p>
 
-<!--
-**tripathipawan/tripathipawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm <strong>Pawan Tripathi</strong></h1>
+<h3 align="center">🚀 Frontend Developer | Web Enthusiast | BCA Graduate</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+%7C+Tailwind+%7C+JavaScript+%7C+TypeScript;Exploring+AI+%26+Cloud;Let's+Build+Amazing+Things!;Open+to+projects+and+collaborations" alt="Typing Animation"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<section>
+<h2>🧠 About Me</h2>
+<p>
+Hi! I'm a passionate frontend developer focused on building fast, responsive and modern web applications.  
+I love experimenting with new technologies, especially AI-powered development tools.  
+Currently working to improve my skills in full-stack development with real-world projects.
+</p>
+</section>
+
+<hr/>
+
+<section>
+<h2>🛠️ Skills & Technologies</h2>
+
+<h3>🔤 Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3A75A1?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<h3>⚛️ Frontend Libraries & Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwindcss-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+<h3>☁️ Backend / Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+</p>
+
+<h3>🤖 AI Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-11A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable-7F56DA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+</p>
+
+<h3>🧰 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-06B6D4?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+</section>
+
+<hr/>
+
+<section>
+<h2>🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pawantripathi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/tripathidevlab?igsh=aGlxaXFla2xoNXNw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61572586097410" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb7sg2V3bbV4NpadBX1m" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@tripathidevlab?si=n8I4WrXL622dlWlJ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+</section>
+
+<hr/>
+
+<section>
+<h2>💼 My Front-end Projects</h2>
+
+<ol>
+  
+  <li><strong>Portfolio Website</strong> ||
+    <a href="https://github.com/pawan8705/My_Personal_Portfolio/">GitHub Link</a> ||
+    <a href="https://pawantripathi.vercel.app/">Live Preview</a>
+  </li>
+  
+  <li><strong>Nova Shop – E-Commerce Website</strong> || 
+  <a href="https://github.com/pawan8705/Nova_Shop/">GitHub Link</a> ||
+  <a href="https://nova-shop8705.vercel.app/">Live Preview</a>
+  </li>
+  
+   <li>
+    <strong>Doctor Appointment Booking Website</strong> ||
+    <a href="https://github.com/pawan8705/Doctor_Booking_App">GitHub Link</a>  ||
+    <a href="https://doctor-appointment-booking-app-seven.vercel.app/">Live Preview</a>
+   </li>
+
+
+  <li><strong>Admin Dashboard UI – React Admin Panel</strong> ||
+  <a href="https://github.com/pawan8705/Admin_Dashboard">GitHub Link</a> ||
+  <a href="https://admin-dashboard-five-umber-w63h4xuzcg.vercel.app/">Live Preview</a>
+  </li>
+
+  <li><strong>Nike Shoes Website</strong> ||
+  <a href="https://github.com/pawan8705/Nike">GitHub Link</a> ||
+  <a href="https://nike-eta-beryl.vercel.app/">Live Preview</a>
+  </li>
+
+</ol>
+</section>
+
+<hr/>
+
+<section>
+<h2>🤖 My AI Projects</h2>
+<ol>
+  <li><strong>Restaurant Website</strong> ||
+  <a href="https://github.com/pawan8705/tasteful-themes-pro">GitHub Link</a> ||
+  <a href="https://tasteful-themes-pro.lovable.app/">Live Preview</a>
+  </li>
+  <li><strong>Expense Tracker</strong> ||
+  <a href="https://github.com/pawan8705/expense-tracker-8705">GitHub Link</a> ||
+  <a href="https://expense-tracker-8705.lovable.app">Live Preview</a>
+  </li>
+  <li><strong>Admin Dashboard</strong> ||
+  <a href="https://github.com/pawan8705/insight-hub">GitHub Link</a> ||
+  <a href="https://dashboard-bypawan8705.lovable.app">Live Preview</a>
+  </li>
+</ol>
+</section>
+
+<hr/>
+
+<section>
+<h2>🎯 Goals & What I'm Working On</h2>
+<ul>
+  <li>Building scalable apps with React</li>
+  <li>Exploring AI-powered development workflows</li>
+  <li>Learning Node.js + Express Js + MongoDB</li>
+  <li>Improving UI/UX skills</li>
+  <li>Preparing to contribute to open-source</li>
+</ul>
+</section>
+
+
+<hr/>
+
+
+---
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan8705&theme=tokyo-night" height="180" />
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pawan8705&show_icons=true&theme=radical" height="180"/>
+</p>
+
+<hr/>
+
+<section>
+<h2>🔥 Fun GIF Section</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" />
+</p>
+</section>
+
+<hr/>
+
+<section>
+<h2>💬 Motivational Quotes</h2>
+
+<p><strong>⚡ "Code is like humor. When you have to explain it, it’s bad."</strong></p>
+<p><strong>💡 "Don’t stop when you’re tired. Stop when you're done."</strong></p>
+<p><strong>🚀 "Small progress is still progress!"</strong></p>
+</section>
+
+<hr/>
+
+<p align="center">
+  ⭐️ Thanks for visiting! Let's connect and build something amazing together!
+</p>
