@@ -19,9 +19,9 @@
 
 <div align="center" display="flex">
 
-| 🎓 Education | 💼 Role | 📍 Location | 🤝 Open To |
-|:---:|:---:|:---:|:---:|
-| BCA Graduate | Frontend Developer | Uttarakhand, India | Job · Internship · WFH/WFO |
+| 🎓 Education | 💼 Role | 📍 Location | 🤝 Open To | 🤝 Language |⚡ Availability |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| BCA Graduate | Frontend Developer | Uttarakhand, India | Job · Internship · WFH/WFO | Hindi, English | Immediate Joiner |
 
 
 </div>
