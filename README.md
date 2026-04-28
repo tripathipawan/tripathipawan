@@ -4,12 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=⚡+Building+Fast+%26+Modern+Web+Apps;🎨+React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;🚀+Turning+Ideas+into+Beautiful+UIs;🤝+Open+to+Freelance+%26+Collaborations)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tripathipawan&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/tripathipawan?label=FOLLOWERS&style=for-the-badge&color=238636&labelColor=1b1f23)](https://github.com/tripathipawan)
-[![Stars](https://img.shields.io/github/stars/tripathipawan?label=STARS&style=for-the-badge&color=e3b341&labelColor=1b1f23)](https://github.com/tripathipawan)
-
 </div>
 
 ---
