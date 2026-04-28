@@ -12,12 +12,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work...
-<img src="https://img.shields.io/badge/Freelance...
-<img src="https://komarev.com/ghpvc/...
-<p align="center">
-  <marquee behavior="scroll"...
-</p>
+[![wakatime](https://wakatime.com/badge/user/YOUR_ID.svg)](https://wakatime.com)
 
 
 </div>
