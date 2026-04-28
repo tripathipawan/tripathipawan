@@ -104,19 +104,18 @@
 | 🛒 **Nova Shop** | Full-featured e-commerce website | JavaScript, React.js, Tailwind CSS, clerk, Axios | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/Nova_Shop/) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://knovashop.vercel.app/) |
 | 🏥 **Doctor Booking** | Appointment booking system | JavaScript, Tailwind CSS, React.js, Firebase | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/Doctor_Booking_App) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://doctor-appointment-booking-app-seven.vercel.app/) |
 | 📊 **Admin Dashboard** | React admin panel with charts | TypeScript,React.js, CSS, Recharts | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/Admin_Dashboard) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://admin-dashboard-five-umber-w63h4xuzcg.vercel.app/) |
-| 👟 **Nike Landing** | Nike-inspired product page | HTML, CSS, JS, React.js | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/Nike) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://nike-eta-beryl.vercel.app/) |
+| 👟 **Nike Landing** | Nike-inspired product page | HTML, CSS, JavaScript, React.js | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/Nike) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://nike-eta-beryl.vercel.app/) |
 
 
 ---
 
 ### 🤖 AI-Assisted
 
-| Project | Description | Links |
-|:--------|:------------|:-----:|
-| 🍽️ **Restaurant Website** | Modern restaurant UI | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/tasteful-themes-pro) [![Live](https://img.shields.io/badge/Live-7F56DA?style=flat-square&logoColor=white)](https://tasteful-themes-pro.lovable.app/) |
-| 💰 **Expense Tracker** | Personal finance tracker | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/expense-tracker-8705) [![Live](https://img.shields.io/badge/Live-7F56DA?style=flat-square&logoColor=white)](https://expense-tracker-8705.lovable.app) |
-| 📈 **Insight Hub** | Admin analytics dashboard | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/insight-hub) [![Live](https://img.shields.io/badge/Live-7F56DA?style=flat-square&logoColor=white)](https://dashboard-bypawan8705.lovable.app) |
-| 🔬 **Dev Lab** | Next.js dev lab with dark mode | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/tripathi-dev-lab) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://tripathidev-lab.vercel.app/) |
+| Project | Description | Tech | Links |
+|:--------|:------------|:-----|:-----:|
+| 🍽️ **Restaurant Website** | Modern restaurant UI | Vite, TypeScript, Tailwind CSS,Shadcn-ui | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/tasteful-themes-pro) [![Live](https://img.shields.io/badge/Live-7F56DA?style=flat-square&logoColor=white)](https://tasteful-themes-pro.lovable.app/) |
+| 💰 **Expense Tracker** | Personal finance tracker | Vite, TypeScript, Tailwind CSS,sonner, zod, recharts | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/expense-tracker-8705) [![Live](https://img.shields.io/badge/Live-7F56DA?style=flat-square&logoColor=white)](https://expense-tracker-8705.lovable.app) |
+| 📈 **Insight Hub** | Admin analytics dashboard | Vite, TypeScript, Tailwind CSS,sonner, zod, recharts, postcss | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tripathipawan/insight-hub) [![Live](https://img.shields.io/badge/Live-7F56DA?style=flat-square&logoColor=white)](https://dashboard-bypawan8705.lovable.app) |
 
 ---
 
