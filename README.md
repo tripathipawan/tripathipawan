@@ -130,12 +130,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipawan&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=161b22&langs_count=8" width="40%"/>
 
-<!-- <br/><br/> -->
+<img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&title=Repositories,Commits,Experience,Stars" width="60%"/>
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&title=Repositories,Commits,Experience,Stars" width="65%"/>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake-dark.svg"/>
