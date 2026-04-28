@@ -12,6 +12,14 @@
 
 <br/>
 
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🚀 Frontend Developer &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ React & Next.js &nbsp;&nbsp;|&nbsp;&nbsp; 🎨 UI Craftsman &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to Work &nbsp;&nbsp;|&nbsp;&nbsp; 🤝 Available for Freelance &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Building Modern Web Apps &nbsp;&nbsp;|&nbsp;&nbsp; 🔥 TypeScript & Tailwind &nbsp;&nbsp;|&nbsp;&nbsp;
+  </marquee>
+</p>
+
+<br/>
+
 <a href="https://www.linkedin.com/in/pawantripathi/">
   <img src="https://img.shields.io/badge/💼%20Open%20to%20Work-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
