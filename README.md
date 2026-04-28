@@ -122,6 +122,9 @@
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=S,A,B,C" width="60%"/>
+
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake.svg"/>
