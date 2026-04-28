@@ -114,16 +114,11 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=2&rank=S,SS,SSS,SECRET" width="30%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="96%"/>
-
-<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&title=Repositories,Commits,Experience,Stars" width="65%"/>
+
 <br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake.svg"/>
