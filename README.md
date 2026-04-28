@@ -70,12 +70,29 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tripathipawan&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=161b22&include_all_commits=true&count_private=true&rank_icon=github" width="47%" height="195px"/>
-  <img src="https://streak-stats.demolab.com?user=tripathipawan&theme=github-dark-blue&hide_border=true&background=161b22&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="47%" height="195px"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipawan&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=161b22&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tripathipawan&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=161b22&include_all_commits=true&count_private=true&rank_icon=github" width="47%" height="195px"/>
+<img src="https://streak-stats.demolab.com?user=tripathipawan&theme=github-dark-blue&hide_border=true&background=161b22&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="47%" height="195px"/>
+
+<br/>
+
+<!-- 1. Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipawan&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=161b22&langs_count=8" width="40%"/>
+
+<br/><br/>
+
+<!-- 2. WakaTime / Trophies - Professional Achievement -->
+<img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="96%"/>
+
+<br/>
+
+<!-- 3. Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake.svg" width="98%"/>
+</picture>
+
 </div>
 
 ---
