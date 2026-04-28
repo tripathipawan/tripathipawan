@@ -18,11 +18,6 @@
   </marquee>
 </p>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/pawantripathi/">
-  <img src="https://img.shields.io/badge/💼%20Open%20to%20Work-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 </div>
 
