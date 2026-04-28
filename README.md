@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Pawan%20Tripathi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20BCA%20Graduate&descAlignY=56&descSize=18&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Pawan%20Tripathi&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20BCA%20Graduate&descAlignY=56&descSize=18&descColor=c9d1d9" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=⚡+Building+Fast+%26+Modern+Web+Apps;🎨+React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;🚀+Turning+Ideas+into+Beautiful+UIs;🤝+Open+to+Freelance+%26+Collaborations)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tripathipawan&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/tripathipawan?label=FOLLOWERS&style=for-the-badge&color=238636&labelColor=1b1f23)](https://github.com/tripathipawan)
+[![Stars](https://img.shields.io/github/stars/tripathipawan?label=STARS&style=for-the-badge&color=e3b341&labelColor=1b1f23)](https://github.com/tripathipawan)
 
 </div>
 
@@ -10,14 +16,21 @@
 
 ## 👨‍💻 About Me
 
-> 🚀 Passionate **Frontend Developer** from **Uttar Pradesh, India** building fast, modern, and responsive web applications.
+<div align="center">
 
-- 🎓 **Education:** BCA Graduate
-- 💼 **Role:** Frontend Developer
-- 🔨 **Currently Building:** [tripathi-dev-lab](https://github.com/tripathipawan/tripathi-dev-lab) — Next.js + Dark Mode
-- 📚 **Learning:** Node.js · Express.js · MongoDB
-- 🤝 **Open To:** Freelance Projects · Collaborations · Open Source
-- ⚡ **Fun Fact:** I debug with `console.log` and I'm proud of it 😄
+| 🎓 Education | 💼 Role | 📍 Location |
+|:---:|:---:|:---:|
+| BCA Graduate | Frontend Developer | Uttar Pradesh, India 🇮🇳 |
+
+| 🔨 Currently Building | 📚 Learning | 🤝 Open To |
+|:---:|:---:|:---:|
+| [tripathi-dev-lab](https://github.com/tripathipawan/tripathi-dev-lab) | Node.js · Express · MongoDB | Freelance · Collabs · Open Source |
+
+</div>
+
+<br/>
+
+> ⚡ *"I turn coffee into clean UI — and yes, I debug everything with `console.log` 😄"*
 
 ---
 
@@ -70,21 +83,18 @@
 
 <br/>
 
-<!-- 1. Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipawan&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=161b22&langs_count=8" width="40%"/>
 
 <br/><br/>
 
-<!-- 2. WakaTime / Trophies - Professional Achievement -->
 <img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="96%"/>
 
 <br/>
 
-<!-- 3. Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake.svg" width="98%"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake-dark.svg" width="98%"/>
 </picture>
 
 </div>
@@ -136,6 +146,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=130&section=footer" width="100%"/>
 
-**⭐ Star my repos if you find them useful!**
+**⭐ Star my repos if you find them useful — it keeps me motivated to build more!**
 
 </div>
