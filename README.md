@@ -78,14 +78,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=tripathipawan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="96%"/>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/tripathipawan/tripathipawan/output/github-snake-dark.svg" width="98%"/>
-</picture>
-
 </div>
 
 ---
