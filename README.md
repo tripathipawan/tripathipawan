@@ -21,11 +21,11 @@
 
 | 🎓 Education | 💼 Role | 📍 Location |
 |:---:|:---:|:---:|
-| BCA Graduate | Frontend Developer | UttaraKhand, India 🇮🇳 |
+| BCA Graduate | Frontend Developer | Uttarakhand, India 🇮🇳 |
 
 | 🔨 Currently Building | 📚 Learning | 🤝 Open To |
 |:---:|:---:|:---:|
-| [tripathi-dev-lab](https://github.com/tripathipawan/tripathi-dev-lab) | Node.js · Express · MongoDB | Freelance · Collabs · Open Source |
+| [Projects](https://github.com/tripathipawan/) | Next.js | Job · Internship · WFH/WFO |
 
 </div>
 
