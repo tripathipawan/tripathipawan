@@ -8,8 +8,6 @@
 
 [![Resume](https://img.shields.io/badge/📄%20Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pawantripathi.vercel.app/)
-[![Email](https://img.shields.io/badge/📧%20Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](tripathipawan8705@gmail.com)
-
 
 </div>
 
