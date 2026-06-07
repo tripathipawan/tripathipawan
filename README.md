@@ -59,7 +59,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Custom Hooks](https://img.shields.io/badge/Custom_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Backend, Database & Build Tools*
+**Backend, Database & Build Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
