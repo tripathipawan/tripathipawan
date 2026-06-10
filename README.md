@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Pawan%20Tripathi&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20BCA%20Graduate&descAlignY=56&descSize=18&descColor=c9d1d9" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=⚡+Building+Fast+%26+Modern+Web+Apps;🎨+React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;🚀+Turning+Ideas+into+Beautiful+UIs;🤝+Open+to+Freelance+%26+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=⚡+Building+Fast+%26+Modern+Web+Apps;🎨+React.js+%7C+Next.js+%7C+TypeScript+%7CJavaScript;🚀+Turning+Ideas+into+Beautiful+UIs;🤝+Open+to+Freelance+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
