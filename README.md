@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Resume](https://img.shields.io/badge/📄%20Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mROYY22_Ka89YtnLvXdvBaiXwuZhaCrv/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/📄%20Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-2Cw3JZmJ2U9doovYWvtgt9AuXPHDpXl/view?usp=drivesdk)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pawantripathi.vercel.app/)
 
 </div>
