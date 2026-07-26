@@ -82,7 +82,6 @@
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Lovable AI](https://img.shields.io/badge/Lovable_AI-7F56DA?style=for-the-badge&logoColor=white)
 ![Emergent](https://img.shields.io/badge/Emergent-000000?style=for-the-badge&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
 
 </div>
